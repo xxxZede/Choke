@@ -1,0 +1,137 @@
+{
+    "weapons": [
+        {
+            "name": "m60",
+            "sanitized_name": "Combat MG",
+            "price": "60000"
+        },
+        {
+            
+            "name": "kevlar",
+            "sanitized_name": "kevlar",
+            "price": "39999"
+        },
+        {
+            "name": "m60 mk2",
+            "sanitized_name": "M60 MK2",
+            "price": "750000"
+
+        },
+        {
+        "name": "fusil de précision",
+            "sanitized_name": "Sniper Rifle",
+            "price": "9000000"
+        },
+        {
+            "name": "awp mk2",
+            "sanitized_name": "Heavy Sniper Mk II",
+            "price": "200000000"
+
+        },
+        {
+            "name": "lance-Missile",
+            "sanitized_name": "Homing Launcher",
+            "price": "1400000"
+
+        },
+        {
+            "name": "fusil d'assaut Mk2",
+            "sanitized_name": "Assault Rifle Mk II",
+            "price": "60000"
+
+        },
+        {
+            "name": "cerberus",
+            "sanitized_name": "cerberus",
+            "price": "180000"
+
+        },
+        {
+            "name": "buzzard",
+            "sanitized_name": "buzzard2",
+            "price": "120000"
+
+        },
+        {
+            "name": "scarab",
+            "sanitized_name": "scarab",
+            "price": "700000"
+
+        },
+        {
+            "name": "thruster",
+            "sanitized_name": "thruster",
+            "price": "650000"
+
+        },
+        {
+            "name": "sasquatch",
+            "sanitized_name": "monster4",
+            "price": "160000"
+
+        },
+        {
+            "name": "nightshark",
+            "sanitized_name": "nightshark",
+            "price": "800000"
+
+        },
+        {
+            "name": "xls",
+            "sanitized_name": "xls2",
+            "price": "75000"
+
+        },
+        {
+            "name": "xls",
+            "sanitized_name": "xls2",
+            "price": "75000"
+
+        },
+        {
+            "name": "schafter",
+            "sanitized_name": "schafter5",
+            "price": "75000"
+
+        },
+        {
+            "name": "schafter",
+            "sanitized_name": "schafter6",
+            "price": "75000"
+
+        }, 
+        {
+            "name": "zr380",
+            "sanitized_name": "zr380",
+            "price": "290000"
+
+        },
+        {
+            "name": "Vigilante",
+            "sanitized_name": "vigilante",
+            "price": "340000"
+
+        },  
+        {
+            "name": "rocket",
+            "sanitized_name": "rocket",
+            "price": "7000"
+
+        },
+        {
+            "name": "deluxo",
+            "sanitized_name": "deluxo",
+            "price": "7000"
+        }
+
+
+    ],
+
+
+    
+    "interval": 1,
+     "webhook_link": 
+        "https://discord.com/api/webhooks/822900039197261894/o1tNGWv5vNm28NKKw_gMri948ctXqoxecSOf7NRWzo5KAa3M2IBcSenrz1TeGbW17yEb"
+
+        
+}
